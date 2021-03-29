@@ -1,14 +1,14 @@
 # fabricledgertestmvn
 Ledger Co Test
 
-#Fabric Ledger Test
+Fabric Ledger Test
 ====================
 
-#Prerequisite
+Prerequisite
 - Java 1.8
 - Maven 3.6
 
-#Steps to run
+Steps to run
 ============
 1) Download the programme on your laptop
 2) run "mvn clean install"
